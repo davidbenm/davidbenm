@@ -1,6 +1,8 @@
-### Hi there 👋, I'm David Benítez Machado.
+### Hello 👋
 
-A Telecommunications and Electronics Engineer as a profesion. I'm actually finishing my PhD studies, working in topics related to telecommunications and automation, more specifically applying Software Defined Networking concepts to the Industrial Internet of Things. 
+I'm David, a Telecommunications and Electronics Engineer as a profesion. I'm actually finishing my PhD studies, working in topics related to telecommunications and automation, more specifically applying Software Defined Networking concepts to the Industrial Internet of Things. 
+
+### Experience
 
 <!--
 **davidbenm/davidbenm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
