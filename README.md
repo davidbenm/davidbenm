@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name is David, I'm a Telecommunications and Electronics Engineer, currently finishing my studies at the PhD in Engineering Sciences, Mention in Automation. I work in the Telecommunications research area, developing Software Defined Network applications in the Python language, improving various performance metrics of industrial networks. I have experience in systems and network administration, using tools for virtualization, infrastructure and servers management. I have expanded my knowledge in the IT field, by training and working with DevOps concepts and cloud provider technologies. Able to work with version control using Git and GitHub. Motivated by self-learning, oriented to productivity, good practices and contribute with the appropriate tools to excellence performance at the tasks in charge.
+Telecommunications Engineer finishing his doctoral studies, where he develops Software Defined Networking applications in Python. Enthusiastic and interested in cloud technologies, he is specializing in Google Cloud Platform and in master the necessary tools to work as a Cloud Engineer or related roles. He benefits from his experience in managing networks and virtualized data centers. Motivated by self-learning and by contributing with the appropriate tools to the performance of excellence in the tasks in charge.
 
 <!--
 **davidbenm/davidbenm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
