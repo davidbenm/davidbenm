@@ -1,6 +1,6 @@
 ### Hello 👋
 
-Telecommunications Engineer finishing his doctoral studies, where he develops Software Defined Networking applications in Python. Enthusiastic and interested in cloud technologies, he is specializing in Google Cloud Platform and in master the necessary tools to work as a Cloud Engineer or related roles. He benefits from his experience in managing networks and virtualized data centers. Motivated by self-learning and by contributing with the appropriate tools to the performance of excellence in the tasks in charge.
+Telecommunications Engineer with doctoral studies, where I have developed Software Defined Networking applications in Python. Enthusiastic and interested in cloud technologies, I am specializing in Google Cloud Platform and in master the necessary tools to work at cloud based roles. I benefit from my experience in managing networks and virtualized data centers. Motivated by self-learning and by contributing with the appropriate tools to the performance of excellence in the tasks in charge.
 
 <!--
 **davidbenm/davidbenm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
