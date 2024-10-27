@@ -1,6 +1,6 @@
 ### Hello 👋
 
-Telecommunications Engineer with doctoral studies, where I have developed Software Defined Networking applications in Python. As part of my experience in the cloud field, I have obtained the Microsoft Certified: Azure Fundamentals certification, completed the Google Cloud Engineer Learning Path, and I currently work as a DevOps Engineer. I have experience in managing networks and on-premises data centers.
+I am a Telecommunications Engineer with doctoral studies and specialized in cloud technologies. Currently, I work as a DevOps Engineer. I am goal-oriented and highly motivated by self-learning.
 
 <!--
 **davidbenm/davidbenm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
